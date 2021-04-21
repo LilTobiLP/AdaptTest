@@ -4,11 +4,7 @@
   "_classes": "Hintergrundbild",
   "_htmlClasses": "",
   "title": "Adapt v5",
-  "displayTitle": {
-    "src": "course/en/images/Logo.png",
-    "alt": "",
-    "attribution": ""
-  },
+  "displayTitle": "Nascar",
   "description": "A sample course demonstrating the capabilities of the Adapt Framework",
   "body": "Willkommen liebe Motorsport Freunde!",
   "instruction": "",
