@@ -1,0 +1,1065 @@
+[
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Introduction",
+        "displayTitle": "",
+        "body": "Die Geschichte der NASCAR begann in der Zeit der Prohibition in den Vereinigten Staaten. Als die Erzeugung, der Verkauf und die Versendung alkoholischer Getränke für menschlichen Genuss verboten waren, gab es große Schmugglerringe, deren Fahrer nachts selbsthergestellten Alkohol durch die USA transportierten. Dazu frisierten die Schmuggler – auch „Bootlegger“ genannt – ihre Autos, um den Streifenwagen der Polizei entkommen zu können. Auch entwickelten sie aus dem gleichen Grund gewagte Fahrmanöver.</br> Ein Beispiel dafür ist der Bootleg-Turn, eine 180° Wendung mit Vollgas, der verhindert, dass die Fahrer an Straßensperren geschnappt werden. Auch begannen die Bootlegger, an Wochenenden Autorennen abzuhalten.",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scrolle weiter um zu erfahren, wie es danach weiterging",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-10",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-10",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "large": "course/en/images/bootleg.jpg",
+            "small": "course/en/images/bootleg.jpg",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-15",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Text",
+        "displayTitle": "Die ersten Rennen",
+        "body": "Der Mechaniker William „Bill“ France, später auch als Bill France senior bekannt, besaß in Daytona Beach eine Tankstelle mit Reparaturwerkstatt, den Treffpunkt der örtlichen Motorsportszene. Er überzeugte 1936 die Stadtverwaltung davon, das erste Stock-Car-Rennen auf dem Daytona Beach Road Course auszutragen. Die städtische Obrigkeit stimmte zu und organisierte sogar ein Preisgeld von <b>5000 US-Dollar</b>. Bill France senior fuhr selbst mit und beendete das Rennen auf dem fünften Rang. Finanziell ergab das Rennen jedoch einen Verlust von <b>22.000 US-Dollar</b>. Dennoch sah France das finanzielle Potential und übernahm ab 1938 die Organisation der Rennen. Er arbeitete auf die Gründung einer eigenen Rennserie hin. In den Jahren 1939 und 1940 fanden jeweils drei Rennen statt. Die Planungen für die Rennen des Jahres 1942 wurden nach dem Angriff der Japaner auf Pearl Harbor und dem Eintritt der USA in den Zweiten Weltkrieg unterbrochen; die meisten Rennen ruhten während dieser Zeit.",
+        "instruction": "",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-20",
+        "_parentId": "b-10",
+        "_type": "component",
+        "_component": "blank",
+        "_classes": "",
+        "_layout": "right",
+        "title": "c-20",
+        "_isOptional": true
+    },
+    {
+        "_id": "c-45",
+        "_parentId": "b-35",
+        "_type": "component",
+        "_component": "accordion",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Accordion",
+        "displayTitle": "Entwicklung nach dem 2. Weltkrieg",
+        "body": "Hier lernst du wie sich die Nascar seit dem Ende des 2. Weltkriegs entwickelt hat.",
+        "instruction": "Klicke auf die Überschriften um mehr zu erfahren",
+        "_items": [
+            {
+                "title": "Nachkiregszeit",
+                "body": "Nach dem Krieg wurden die Rennen im Jahre 1946 wieder aufgenommen und viele kleinere Rennsport-Organisationen gegründet, jedoch hatten alle ein anderes Reglement beziehungsweise ein anderes Format. Am 14. Dezember 1947 traf sich Bill France senior in der Ebony Bar in Daytona Beach, Florida mit Veranstaltern von Autorennen im Osten und mittleren Westen der USA. Dort wurde die NASCAR-Rennserie gegründet. </br></br> Mit der NASCAR-Strictly-Stock-Saison 1949 begannen der heutige NASCAR Sprint Cup. Das erste Rennen fand am 19. Juni 1949 auf dem Charlotte Speedway in Charlotte, North Carolina statt. Das Rennen gewann Jim Roper.",
+
+                
+                "_classes": "align-image-left",
+                "_graphic": {
+                    "src": "course/en/images/Nachkrieg.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Grand National/Winston-Cup Zeit",
+                "body": "In den 1950er-Jahren wurden seriennahe Fahrzeuge der Fabrikate Chrysler, Chevrolet, Ford, Oldsmobile, Plymouth, Pontiac, Dodge und Buick mit sogenannten Stockblock-Motoren auf den klassischen Rund- bzw. Ovalkursen und einigen wenigen Straßenrennstrecken eingesetzt.</br></br>Die NASCAR-Motorentechnik wurde auf dem Stand der 1960er Jahre vereinheitlicht, es kommen weiterhin streng reglementierte V8-Motoren mit 5,7 Litern Hubraum, Vergaser und über Stoßstangen betätigten Ventilen zum Einsatz. Die heutigen Motoren entwickeln weit über 590 kW (800 PS), werden aber auf Hochgeschwindigkeits-Ovalen mittels Luftmengenbegrenzer (AE: restrictor plate) aus Sicherheitsgründen auf circa 330 kW (450 PS) gedrosselt. Seit 2012 wird statt des Vergasers eine elektronische Einspritzung verwendet. Der dumpf grollende, kraftvoll donnernde Klang dieser typisch amerikanischen Motoren trägt sicherlich zum Erfolg der NASCAR-Serie bei.</br></br>Von 1973 bis 2003 trug die Top-Division der NASCAR den Namen Winston-Cup.",
+                "_classes": "align-image-right",
+                "_graphic": {
+                    "src": "course/en/images/WinstonCup.jpg",
+                    "alt": ""
+                }
+            },
+            {
+                "title": "Nascar heute",
+                "body": "Im Jahr 2004 wurde die oberste Rennserie der NASCAR in Nextel Cup umbenannt und ersetzte damit den langjährigen Seriensponsor Winston. Zur gleichen Zeit wurde auch das Punktesystem verändert. So wurden nicht mehr alle Punkte aus allen Rennen zusammengezählt und derjenige mit den meisten Punkten zum Meister gekürt. Stattdessen wurde der Chase, ein Play-off-System, eingeführt, bei dem nach dem 26. Rennen die besten zehn Fahrer der Gesamtwertung bestimmt wurden, die den Titel unter sich ausgefahren haben. Zur Saison 2007 wurde die Zahl der Fahrer, die am Chase teilnehmen können, auf zwölf erhöht. Kritiker behaupten, der Chase sei eingeführt worden, um Matt Kenseths Meistertitel der Saison 2003 zu diskreditieren, den er mit nur einem Sieg erreichte. Nach dem Zusammenschluss von Sprint und Nextel erfolgte zur Saison 2008 eine erneute Umbenennung in Sprint Cup. Das Play-off-System heißt seitdem Chase for the Sprint Cup.</br></br>Die Karosserien haben längst nur noch einige wenige oberflächliche Merkmale mit den aktuellen Serienmodellen gemein und sind weitgehend standardisiert. Die Seriennähe soll dadurch erzeugt werden, dass bestimmte fahrzeugspezifische Elemente wie zum Beispiel die Scheinwerfer als Schmuckelemente auf die Silhouettefahrzeuge aufgeklebt werden. Seit der Saison 2007 nimmt erstmals in der Geschichte des NASCAR Sprint Cup mit Toyota ein nicht amerikanischer Autohersteller teil. Die von Toyota eingesetzten Fahrzeuge sind an das Serienmodell Camry angelehnt. Eine weitere Neuerung für die Saison 2007 war der Einsatz des neuen Car of Tomorrow in der Cup-Serie, welches sicherer und kostengünstiger als das bisherige Auto sein soll und in der ersten Saison in insgesamt 16 von 36 Rennen eingesetzt wurde.",
+                "_graphic": {
+                    "src": "course/en/images/2004.jpg",
+                    "alt": ""
+                }
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-25",
+        "_parentId": "b-15",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Graphic",
+        "displayTitle": "Richard Petty",
+        "body": "Im Jahre 1960 beendete er die Meisterschaft auf dem zweiten Platz. Im Jahre 1964 ging er mit einem leistungsstarken Plymouth mit einem neuen Hemi-Motor an den Start des Daytona 500. Er führte 184 der insgesamt 200 Runden des Rennens an und beendete es als Sieger. Dies war der Auftakt zu neun weiteren Siegen in der Saison, in der er über 114.000 US-Dollar an Preisgeld gewann und seine erste Grand National-Meisterschaft einfuhr. Am 27. Februar 1966 gewann Petty erneut das Daytona 500, welches wegen eines Gewitters um zwei Runden auf insgesamt 198 Runden verkürzt wurde. Petty war der erste Fahrer, der dieses Rennen zweimal gewinnen konnte.",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/Petty.jpg",
+            "alt": "",
+            "attribution": ""
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-30",
+        "_parentId": "b-20",
+        "_type": "component",
+        "_component": "narrative",
+        "_classes": "",
+        "_layout": "full",
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_hasNavigationInTextArea": false,
+        "title": "Narrative",
+        "displayTitle": "Facetten der NASCAR",
+        "body": "Lerne die verschiedenen Facetten der heutigen NASCAR kennen",
+        "instruction": "Klicke auf den Pfeil um zum nächsten Kapitel zu gelangen.",
+        "mobileInstruction": "Select the next and back arrows followed by the plus icon to find out more.",
+        "_items": [
+            {
+                "title": "Sicherheit",
+                "body": "Die NASCAR hat, nicht zuletzt seit dem Tode von Dale Earnhardt im Februar 2001, die Sicherheitsstandards erhöht. So ist das HANS-System (Head and Neck Support, Kopf-und-Nacken-Stütze) inzwischen seit 2001 Pflicht. Auf den Oval-Rennstrecken werden sehr hohe Durchschnittsgeschwindigkeiten erreicht. So wurde 1987 auf dem Talladega Superspeedway durch Bill Elliott mit einem Ford Thunderbird mit einer durchschnittlichen Geschwindigkeit von 342,482 km/h der offizielle Rekord aufgestellt. 2004 fuhr Rusty Wallace bei einem Test mit einer Höchstgeschwindigkeit von 367 km/h einen inoffiziellen Rundenrekord von 355 km/h.[3] Um die Fahrer der Top-Divisionen bei Unfällen besser schützen zu können, verlangt die NASCAR auf allen Ovalen den Einbau der SAFER Barrier (Steel and Foam Energy Reduction barrier). Die SAFER Barrier ist eine vorgelagerte Streckenbegrenzungsmauer, die einen Teil der Energie, die bei einem Unfall freigesetzt wird, absorbiert.",
+                "_graphic": {
+                    "src": "course/en/images/HANS.jpg",
+                    "alt": ""
+                },
+                "strapline": "Narrative item 1"
+            },
+            {
+                "title": "60. NASCAR-Jubiläum",
+                "body": "Im Jahr 2008 feierte die NASCAR ihr 60. Jubiläum. Trotz der Kritik an der Richtung, in die die NASCAR unter der Führung von Brian France steuert, sind die Rennen weiterhin unter den populärsten Sportveranstaltungen der USA. Die vermeintliche Seriennähe der Fahrzeuge sowie akzeptable Eintrittspreise und ein relativ offenes Fahrerlager sind Gründe dafür. Manche Rennfahrerlegenden, wie zum Beispiel Richard Petty mit 200 Siegen und sieben Meistertiteln oder der tödlich verunglückte Dale Earnhardt, der ebenfalls sieben Titel gewann, werden wie Volkshelden verehrt. Selbst weniger erfolgreiche Rennfahrer haben hier eine Fangemeinde, bei einem Starterfeld mit 40 Wagen gibt es immer genug Identifikationsfiguren. So gleichen die großen Rennen Volksfesten, wo mit Kind und Kegel gefeiert wird. Die NASCAR ist trotz ihrer nahezu alleinigen Konzentration auf die USA mit Ausnahmen von vereinzelten Rennen in Kanada und Mexiko in der Nationwide Series und Amateur-Divisionen in den genannten Ländern auch weltweit sehr populär.",
+                "_graphic": {
+                    "src": "course/en/images/Jubiläum.png",
+                    "alt": ""
+                },
+                "strapline": "Narrative item 2"
+            },
+            {
+                "title": "NASCAR Technical Institute",
+                "body": "Das NASCAR Technical Institute befindet sich in Mooresville, North Carolina. Darüber hinaus gibt es zehn weitere Standorte in anderen Bundesstaaten. Das Technical Institute ist ein Ableger des privaten, US-weit agierenden Anbieters Universal Technical Institute, welches sich auf die Ausbildung seiner studentischen Mitglieder spezialisiert hat. Die Hochschule bietet Studiengänge in Motoren- und Maschinenbau des Bereiches der Kraftstoff- und Schmiersysteme, gleichwie bezogen auf die Karosserie, die Fertigung einzelner Autoteile und des Fahrwerks an. In einem speziellen Trainingsprogramm werden die Studenten mit den Vorschriften und Regeln der NASCAR vertraut gemacht.",
+                "_graphic": {
+                    "src": "course/en/images/Institut.jpg",
+                    "alt": ""
+                },
+                "strapline": "Narrative item 3"
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-35",
+        "_parentId": "b-25",
+        "_type": "component",
+        "_component": "hotgraphic",
+        "_classes": "",
+        "_layout": "full",
+        "_comment": "setCompletionOn = inview | allItems",
+        "_setCompletionOn": "allItems",
+        "_canCycleThroughPagination": false,
+        "_hidePagination": false,
+        "_isNarrativeOnMobile": true,
+        "_useNumberedPins": false,
+        "_useGraphicsAsPins": false,
+        "title": "Hot Graphic",
+        "displayTitle": "Topligen",
+        "body": "Lerne die verschiedenen Ligen der Nascar kennen.",
+        "instruction": "Klicke auf die Fahrer um mehr zu erfahren",
+        "mobileInstruction": "",
+        "_graphic": {
+            "src": "course/en/images/hotbutton.jpg",
+            "alt": ""
+        },
+        "_items": [
+            {
+                "title": "Sprint Cup",
+                "body": "Die NASCAR Cup Series ist die höchste Motorsportliga der NASCAR. Zuvor hieß sie Strictly Stock Series (1949), Grand National Series (1950 bis 1971), Winston Cup (1972 bis 2003), Nextel Cup (2004 bis 2007) Sprint Cup (2008 bis 2016) und Monster Energy NASCAR Cup Series (2017 bis 2019).",
+                "_graphic": {
+                    "src": "course/en/images/sprintCup.png",
+                    "alt": "",
+                    "_classes": ""
+                },
+                "strapline": "Hot graphic item 1",
+                "_classes": "",
+                "_top": 18,
+                "_left": 49
+            },
+            {
+                "title": "Nationwide Series",
+                "body": "Die NASCAR Xfinity Series ist eine US-amerikanische Stockcar-Motorsportserie. Sie gilt als „zweite Liga“ der NASCAR und ist für viele Fahrer das Sprungbrett in die Monster Energy NASCAR Cup Series. Die Rennen finden häufig im Rahmen der Cup Series statt und werden meist einen Tag vor dem Cup-Rennen ausgetragen.",
+                "_graphic": {
+                    "src": "course/en/images/nationwide.png",
+                    "alt": "",
+                    "_classes": ""
+                },
+                "strapline": "Hot graphic item 2",
+                "_classes": "",
+                "_top": 48,
+                "_left": 51
+            },
+            {
+                "title": "Camping World Truck Series",
+                "body": "Die Gander Outdoors Truck Series ist eine von der NASCAR veranstaltete Rennserie, die mit umgebauten Pickups bestritten werden, die sich an dem Design der Fahrzeuge des Sprint Cups orientieren.",
+                "_graphic": {
+                    "src": "course/en/images/trucks.png",
+                    "alt": "",
+                    "_classes": ""
+                },
+                "strapline": "Hot graphic item 3",
+                "_classes": "",
+                "_top": 83,
+                "_left": 44
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+  
+    {
+        "_id": "c-60",
+        "_parentId": "b-40",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 4,
+        "title": "To scroll or not to scroll?",
+        "displayTitle": "Kyle Busch",
+        "body": "Für welche Produkte wirbt Kyle Busch?",
+        "instruction": "Wähle die etnsprechenden Produkte aus und drücke auf Auswählen",
+        "_items": [
+            {
+                "text": "M&Ms",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Snickers",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Skittles",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Fed Ex",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "<b>Das ist korrekt</b><br>Kyle Busch wirbt für <b>Snickers</b> , <b>Skittels</b> und <b>M&Ms</b>",
+            "_incorrect": {
+                "final": "<b>Das ist leider nicht korrekt</b><br>Kyle Busch wirbt für <b>Snickers</b> , <b>Skittels</b> und <b>M&Ms</b>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-62",
+        "_parentId": "b-40",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-62",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/kyle_busch.jpg",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-65",
+        "_parentId": "b-45",
+        "_type": "component",
+        "_component": "gmcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 1,
+        "title": "Graphical Multiple Choice Question",
+        "displayTitle": "Champions",
+        "body": "Welcher dieser Fahrer hat die Cup Series häufiger gewonnen?",
+        "instruction": "Wähle den entsprechenden Fahrer aus und klicke auf Auswählen",
+        "_columns": 3,
+        "_items": [
+            {
+                "text": "Kyle Busch",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "large": "course/en/images/Kyle.jpg",
+                    "small": "course/en/images/Kyle.jpg",
+                    "alt": ""
+                    
+                }
+            },
+            {
+                "text": "Joey Logano",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "large": "course/en/images/Joey.jpg",
+                    "small": "course/en/images/Joey.jpg",
+                    "alt": ""
+                    
+                    
+                }
+            },
+            {
+                "text": "Jimmie Johnson",
+                "_shouldBeSelected": true,
+                "_graphic": {
+                    "large": "course/en/images/Jimmy.jpg",
+                    "small": "course/en/images/Jimmy.jpg",
+                    "alt": ""
+                    
+                }
+            }
+        ],
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "<b>Das ist leider nicht korrekt</b><br><ul><li>Jimmie Johnson hat in der Cup Series <b>83</b> mal ein Rennen gewonnen</li><li>Kyle Busch hat in der Cup Series <b>52</b> mal ein Rennen gewonnen</li><li>Joey Logano hat in der Cup Series <b>25</b> mal ein Rennen gewonnen</li>",
+            "_incorrect": {
+                "final": "<b>Das ist leider nicht korrekt</b><br><ul><li>Jimmie Johnson hat in der Cup Series <b>83</b> mal ein Rennen gewonnen</li><li>Kyle Busch hat in der Cup Series <b>52</b> mal ein Rennen gewonnen</li><li>Joey Logano hat in der Cup Series <b>25</b> mal ein Rennen gewonnen</li>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-70",
+        "_parentId": "b-50",
+        "_type": "component",
+        "_component": "textinput",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_allowsAnyCase": true,
+        "_allowsPunctuation": true,
+        "title": "Text Input",
+        "displayTitle": "Aktuelle Champions",
+        "body": "Kannst du einen der drei letzten Champions der Cup Serie nennen?",
+        "instruction": "Gebe deine Antwort ein und klicke auf Auswählen",
+        "_answers": [
+            ["Martin Truex junior"],
+            ["Joey Logano"],
+            ["Kyle Busch"]
+        ],
+        "_items": [
+            {
+                "prefix": "",
+                "placeholder": "Antwort hier eingeben",
+                "suffix": ""
+            }
+        ],
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "<b>Das ist korrekt</b><br><ul><li>Der Champion von 2019 war Kyle Busch</li><li>Der Champion von 2018 war Joey Logano</li><li>Der Champion von 2017 war Martin Truex junior</li>",
+            "_partlyCorrect": {
+                "final": "<b>Das ist leider nicht ganz korrekt</b><br><ul><li>Der Champion von 2019 war Kyle Busch</li><li>Der Champion von 2018 war Joey Logano</li><li>Der Champion von 2017 war Martin Truex junior</li>"
+            },
+            "_incorrect": {
+                "final": "<b>Das ist leider nicht korrekt</b><br><ul><li>Der Champion von 2019 war Kyle Busch</li><li>Der Champion von 2018 war Joey Logano</li><li>Der Champion von 2017 war Martin Truex junior</li>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-72",
+        "_parentId": "b-50",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-72",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/champion.jpg",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-75",
+        "_parentId": "b-55",
+        "_type": "component",
+        "_component": "matching",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "title": "Matching",
+        "displayTitle": "Teams",
+        "body": "Kannst du die folgenden Fragen beantworten?",
+        "instruction": "Wähle einen Eintrag aus der Liste und klicke auf Auswählen",
+        "placeholder": "Wähle einen Eintrag",
+        "_items": [
+            {
+                "text": "Welches der folgenden Teams fährt mit Wagen von Toyota?",
+                "_options": [
+                    {
+                        "text": "Team Penske",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Rick Ware Racing",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Joe Gibbs Racing",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Chip Ganassi Racing",
+                        "_isCorrect": false
+                    }
+                ]
+            },
+            {
+                "text": "Welcher Fahrer fährt für das Team 23XI Racing von Michael Jordan?",
+                "_options": [
+                    {
+                        "text": "Bubba Wallace",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Daniel Suarez",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Kurt Busch",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Chase Elliot",
+                        "_isCorrect": false
+                    }
+                ]
+            },
+            {
+                "text": "Welcher Fahrer fährt mit der Fahrernummer 1?",
+                "_options": [
+                    {
+                        "text": "Austin Dillon",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Kurt Busch",
+                        "_isCorrect": true
+                    },
+                    {
+                        "text": "Ryan Newman",
+                        "_isCorrect": false
+                    },
+                    {
+                        "text": "Brad Keselowski",
+                        "_isCorrect": false
+                    }
+                ]
+            }
+        ],
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "<b>Das ist korrekt</b><br><ul><li>Joe Gibbs Racing fährt mit Wagen von Toyota</li><li>Bubba Wallace fährt für das Team 23XI Racing von Michael Jordan</li><li>Kurt Busch fährt mit der Fahrernummer 1</li>",
+            "_partlyCorrect": {
+                "final": "<b>Das ist leider nicht ganz korrekt</b><br><ul><li>Joe Gibbs Racing fährt mit Wagen von Toyota</li><li>Bubba Wallace fährt für das Team 23XI Racing von Michael Jordan</li><li>Kurt Busch fährt mit der Fahrernummer 1</li>"
+            },
+            "_incorrect": {
+                "final": "<b>Das ist leider nicht korrekt</b><br><ul><li>Joe Gibbs Racing fährt mit Wagen von Toyota</li><li>Bubba Wallace fährt für das Team 23XI Racing von Michael Jordan</li><li>Kurt Busch fährt mit der Fahrernummer 1</li>"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-80",
+        "_parentId": "b-60",
+        "_type": "component",
+        "_component": "slider",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_showNumber": true,
+        "_showScaleIndicator": true,
+        "_scaleStart": 40,
+        "_scaleEnd": 50,
+        "title": "Slider",
+        "displayTitle": "Daytona 500",
+        "body": "Wie viele Fahrer traten 2021 beim Daytona 500 an?",
+        "instruction": "Ziehe den Slider zur korrekten Anzahl und klicke auf Auswählen",
+        "labelStart": "",
+        "labelEnd": "",
+        "_correctAnswer": "",
+        "_correctRange": {
+            "_bottom": 44,
+            "_top": 44
+        },
+        "_feedback": {
+            "title": "Feedback",
+            "correct": "<b>Das ist korrekt</b><br>2021 gingen <b>44</b> Fahrer beim Daytona 500 an den Start",
+            "_incorrect": {
+                "final": "<b>Das ist leider nicht korrekt</b><br>2021 gingen <b>44</b> Fahrer beim Daytona 500 an den Start"
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": true
+        }
+    },
+    {
+        "_id": "c-90",
+        "_parentId": "b-65",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 4,
+        "title": "To scroll or not to scroll?",
+        "displayTitle": "Kyle Busch?",
+        "body": "Für welche Produkte wirbt Kyle Busch?",
+        "instruction": "Wähle die etnsprechenden Produkte aus und drücke auf scurr scurr",
+        "_items": [
+            {
+                "text": "M%Ms",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Snickers",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Skittles",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Fed Ex",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "",
+            "correct": "",
+            "_partlyCorrect": {
+                "final": ""
+            },
+            "_incorrect": {
+                "final": ""
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-95",
+        "_parentId": "b-65",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-95",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/kyle_busch.jpg",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-100",
+        "_parentId": "b-75",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 5,
+        "title": "Do you know your plugins?",
+        "displayTitle": "Do you know your plugins?",
+        "body": "Which of the following are types of Adapt plugins?",
+        "instruction": "Choose one or more options and select Submit.",
+        "_items": [
+            {
+                "text": "Component",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Extension",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Schema",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Block",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "App Wrapper",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "",
+            "correct": "",
+            "_partlyCorrect": {
+                "final": ""
+            },
+            "_incorrect": {
+                "final": ""
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-105",
+        "_parentId": "b-75",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-105",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/single-width.png",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-110",
+        "_parentId": "b-80",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 1,
+        "title": "It’s as simple as A, B, C",
+        "displayTitle": "It’s as simple as A, B, C",
+        "body": "Can you identify the missing word in the following sequence?<br>Article / ..... / Component.",
+        "instruction": "Choose an option and select Submit.",
+        "_items": [
+            {
+                "text": "Block",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Bridge",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Brace",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Base",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Bearing",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "",
+            "correct": "",
+            "_incorrect": {
+                "final": ""
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-115",
+        "_parentId": "b-80",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-115",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/single-width.png",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-120",
+        "_parentId": "b-85",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 4,
+        "title": "Content objects",
+        "displayTitle": "Content objects",
+        "body": "What would you be referring to when describing a content object within Adapt?",
+        "instruction": "Choose one or more options and select Submit.",
+        "_items": [
+            {
+                "text": "Page",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Menu",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Component",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Course configuration options",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "",
+            "correct": "",
+            "_partlyCorrect": {
+                "final": ""
+            },
+            "_incorrect": {
+                "final": ""
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-125",
+        "_parentId": "b-85",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-95",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/single-width.png",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-130",
+        "_parentId": "b-90",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 1,
+        "title": "Adding titles to icons",
+        "displayTitle": "Adding titles to icons",
+        "body": "What JSON file would you need to edit in order to add a title to an icon in the navigation bar?",
+        "instruction": "Choose an option and select Submit.",
+        "_items": [
+            {
+                "text": "course.json",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "config.json",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "contentObjects.json",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "components.json",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "",
+            "correct": "",
+            "_incorrect": {
+                "final": ""
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-135",
+        "_parentId": "b-90",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-95",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/single-width.png",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-140",
+        "_parentId": "b-95",
+        "_type": "component",
+        "_component": "mcq",
+        "_classes": "",
+        "_layout": "left",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": false,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 4,
+        "title": "Control the scroll",
+        "displayTitle": "Control the scroll",
+        "body": "The <strong>Trickle</strong> extension makes it possible to control how the learner scrolls down the page, but what elements of a page can it be applied to?",
+        "instruction": "Choose an option and select Submit.",
+        "_items": [
+            {
+                "text": "Article",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Block",
+                "_shouldBeSelected": true
+            },
+            {
+                "text": "Component",
+                "_shouldBeSelected": false
+            },
+            {
+                "text": "Other extensions",
+                "_shouldBeSelected": false
+            }
+        ],
+        "_feedback": {
+            "title": "",
+            "correct": "",
+            "_partlyCorrect": {
+                "final": ""
+            },
+            "_incorrect": {
+                "final": ""
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-145",
+        "_parentId": "b-95",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "right",
+        "_isOptional": true,
+        "title": "c-95",
+        "displayTitle": "",
+        "body": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/single-width.png",
+            "alt": "",
+            "attribution": ""
+        }
+    },
+    {
+        "_id": "c-147",
+        "_parentId": "b-100",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Scoring bands",
+        "displayTitle": "",
+        "body": "The Assessment Results component allows you to specify the assessment pass mark, and provide tailored feedback to as many scoring bands as you wish.<br><br>In this short assessment we set the pass mark at 75% or above and provided four scoring bands, each of which has some accompanying feedback. The four scoring bands were:<br><br><ul><li>0-49% (fail)</li><li>50-74% (fail)</li><li>75-99% (pass)</li><li>100% (perfect score)</li></ul><br>So, how did you do? Let’s find out.",
+        "_canReset": true,
+        "_isResetOnRevisit": "hard",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-150",
+        "_parentId": "b-105",
+        "_type": "component",
+        "_component": "assessmentResults",
+        "_classes": "",
+        "_layout": "full",
+        "_isVisibleBeforeCompletion": false,
+        "_assessmentId": "a-15",
+        "title": "Results",
+        "displayTitle": "Results",
+        "body": "",
+        "instruction": "",
+        "_retry": {
+            "button": "Retry Assessment",
+            "_comment": "use {{attempts}}, {{attemptsSpent}} and {{attemptsLeft}} to display attempts",
+            "feedback": ""
+        },
+        "_comment": "use {{score}}, {{maxScore}} and {{scoreAsPercent}} to display score and percentage",
+        "_completionBody": "{{{feedback}}}",
+        "_bands": [
+            {
+                "_score": 0,
+                "feedback": "You didn’t pass, achieving a score of {{scoreAsPercent}}%.<br><br>You didn’t do so well in the Adapt assessment demo, but don’t worry. There’s lots of information about the Adapt basics on <a href='http://www.adaptlearning.org/' target='_blank'>our site</a>. We’d also suggest you pay a visit to <a href='https://community.adaptlearning.org/mod/forum/view.php?id=4' target='_blank'>the forum</a> or <a href='https://gitter.im/adaptlearning/adapt_framework'>chat room</a> and ask our ever-helpful community to answer any questions that you might have.",
+                "_allowRetry": true
+            },
+            {
+                "_score": 50,
+                "feedback": "You didn’t pass, achieving a score of {{scoreAsPercent}}%.<br><br>You already know some of the Adapt basics but please explore <a href='http://www.adaptlearning.org/' target='_blank'>our site</a> for more information. Also pay a visit to <a href='https://community.adaptlearning.org/mod/forum/view.php?id=4' target='_blank'>the forum</a> or <a href='https://gitter.im/adaptlearning/adapt_framework'>chat room</a> and ask our ever-helpful community to answer any questions that you might have.",
+                "_allowRetry": true
+            },
+            {
+                "_score": 75,
+                "feedback": "You passed, achieving a score of {{scoreAsPercent}}%.<br><br>You’re clearly already pretty knowledgeable about Adapt so, if you haven’t already, please consider sharing your expertise on the <a href='https://community.adaptlearning.org/mod/forum/view.php?id=4' target='_blank'>Adapt community forums</a>.",
+                "_allowRetry": true
+            },
+            {
+                "_score": 100,
+                "feedback": "You passed, achieving a score of {{scoreAsPercent}}%.<br><br>You’re clearly already a black belt in Adapt! If you haven’t already, please consider sharing your expertise on the <a href='https://community.adaptlearning.org/mod/forum/view.php?id=4' target='_blank'>Adapt community forums</a>.",
+                "_allowRetry": false
+            }
+        ],
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "c-200",
+        "_parentId": "b-150",
+        "_type": "component",
+        "_component": "text",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Introductionnnn",
+        "displayTitle": "",
+        "body": "Hier steht jz voll <b>FETT</b> Text",
+        "instruction": "{{_globals._learnerInfo.firstname}}, scroll down to see what presentation components are available as part of the core bundle.",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }
+]

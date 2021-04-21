@@ -1,0 +1,103 @@
+[
+
+    {
+        "_id": "co-05",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Presentation Components",
+        "displayTitle": "Geschichte der Nascar",
+        "body": "Finde mehr über die Wurzeln des Stock Car Racings und die Entstehung der Nascar Cup Series heraus.",
+        "pageBody": "",
+        "instruction": "",
+        "_graphic": {
+            "src": "course/en/images/vintage.jpg",
+            "alt": "",
+            "height": "300px"
+        },
+        "linkText": "Betreten",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-10",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Question Components",
+        "displayTitle": "Die Fahrer",
+        "body": "Lerne die Fahrer der Nascar Cup Series Saison 2021 kennen.",
+        "pageBody": "",
+        "instruction": "Beantworte die folgenden Fragen um dein Wissen unter Beweis zu stellen!",
+        "_graphic": {
+            "src": "course/en/images/Fahrer.jpg",
+            "alt": "",
+            "height": "300px"
+        },
+        "linkText": "Betreten",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-15",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Adapt Assessment",
+        "displayTitle": "Die Strecken",
+        "body": "Lerne die Strecken der Nascar Cup Series Saison 2021 kennen.",
+        "pageBody": "We’ve put together a very short quiz to demonstrate the new assessment functionality. In this simple example there are two banks that each contain three questions with two being taken from each bank at random. The order in which the questions are presented is then also randomised, as is the order of each question’s options.",
+        "instruction": "Think you can get a perfect score? Scroll down to attempt the first question.",
+        "_graphic": {
+            "src": "course/en/images/Strecken.jpg",
+            "alt": "",
+            "height": "300px"
+        },
+        "linkText": "Betreten",
+        "duration": "2 mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    },
+    {
+        "_id": "co-25",
+        "_parentId": "course",
+        "_type": "page",
+        "_classes": "",
+        "_htmlClasses": "",
+        "title": "Menüeintrag",
+        "displayTitle": "Hier gehts richtig ab",
+        "body": "Notification Gaaaaang Let´s get it!!!<br>brumm bruum Im Kreis fahren",
+        "pageBody": "Hallo Hallo sieht man das?",
+        "instruction": "Hier stehen sinnlose Texte",
+        "_graphic": {
+            "src": "course/en/images/Nascar.jpg",
+            "alt": "",
+            "height": "300px"
+        },
+        "linkText": "Press to pay respect",
+        "duration": "Einige mins",
+        "_pageLevelProgress": {
+            "_isEnabled": true,
+            "_showPageCompletion": false,
+            "_excludeAssessments": false,
+            "_isCompletionIndicatorEnabled": false
+        }
+    }
+]
